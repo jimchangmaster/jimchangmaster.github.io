@@ -154,3 +154,4 @@ thebrave.io, 1234634, RESELLER, c25b2154543746ac
 bid-matrix.com, f2c71a45ea149366, RESELLER
 bold-win.com, 1189, RESELLER, 71746737d0bab951
 toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+vungle.com, 6aafbd2dadbd10019b9a6103, DIRECT, c107d686becd2d7776becd2d77
